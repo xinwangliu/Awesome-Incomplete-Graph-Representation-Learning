@@ -34,7 +34,7 @@
 11. [Arxiv 2021] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
 12. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130.pdf)]
 13. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
-14. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
+14. [Arxiv 2021] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
 15. [Arxiv 2021] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
 16. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 17. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
