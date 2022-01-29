@@ -18,7 +18,8 @@
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
 2. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/abs/2201.08580)|[code](https://github.com/nju-websoft/TKGC)]
 3. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
-4. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
+4. [ICLR 2022] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
+5. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
@@ -35,13 +36,12 @@
 12. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130.pdf)]
 13. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
 14. [Arxiv 2021] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
-15. [Arxiv 2021] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
-16. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
-17. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
-18. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
-19. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
-20. [Arxiv 2021] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
-21. [Arxiv 2021] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
+15. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+16. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
+17. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
+18. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
+19. [Arxiv 2021] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
+20. [Arxiv 2021] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
 
 
 
