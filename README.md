@@ -55,18 +55,19 @@
 
 
 ## Year 2019
-1. [KBS 2019] **Adversarial Learning for Multi-view Network Embedding on Incomplete Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302278?via%3Dihub)|[code]()]
-2. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper](https://ieeexplore.ieee.org/document/8970688)|[code]()]
-3. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)|[code]()]
+1. [KBS 2019] **Adversarial Learning for Multi-view Network Embedding on Incomplete Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302278?via%3Dihub)]
+2. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper](https://ieeexplore.ieee.org/document/8970688)|[code](https://github.com/seu-kse/HashKG)]
+3. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
 ## Year 2018
-1. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** \[[paper](https://dl.acm.org/doi/10.1145/3219819.3219890)|[code]()]
-2. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code]()]
-3. [RecSys 2018] **Spectral collaborative filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code]()]
+1. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** \[[paper](https://dl.acm.org/doi/10.1145/3219819.3219890)]
+2. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
+3. [RecSys 2018] **Spectral collaborative filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
 
 ## Year 2017
-1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code]()]
-2. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper](https://arxiv.org/pdf/1706.02263.pdf)|[code]()]
+1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code](https://github.com/fmonti/mgcnn)]
+2. [CIKM 2017] **From Properties to Links: Deep Network Embedding on Incomplete Graphs** \[[paper](https://dl.acm.org/doi/10.1145/3132847.3132975)]
+3. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper](https://arxiv.org/pdf/1706.02263.pdf)|[code](https://github.com/riannevdberg/gc-mc)]
 
 
 
