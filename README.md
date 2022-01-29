@@ -44,13 +44,13 @@
 
 
 ## Year 2020
-1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper](https://proceedings.neurips.cc/paper/2020/file/dc36f18a9a0a776671d4879cae69b551-Paper.pdf)|[code]()]
-2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper](https://proceedings.neurips.cc/paper/2020/file/672cf3025399742b1a047c8dc6b1e992-Paper.pdf)|[code]()]
-3. [NN 2020] **Missing Data Imputation with Adversarially-trained Graph Convolutional Networks** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302185?via%3Dihub)|[code]()]
-4. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper](https://openreview.net/pdf?id=ByxxgCEYDS)|[code]()]
-5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)|[code]()]
-6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code]()]
-7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)|[code]()]
+1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper](https://proceedings.neurips.cc/paper/2020/file/dc36f18a9a0a776671d4879cae69b551-Paper.pdf)|[code](https://github.com/maxiaoba/GRAPE)]
+2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper](https://proceedings.neurips.cc/paper/2020/file/672cf3025399742b1a047c8dc6b1e992-Paper.pdf)]
+3. [NN 2020] **Missing Data Imputation with Adversarially-trained Graph Convolutional Networks** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302185?via%3Dihub)|[code](https://github.com/spindro/GINN)]
+4. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper](https://openreview.net/pdf?id=ByxxgCEYDS)|[code](https://github.com/muhanzhang/IGMC)]
+5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)|[code](https://github.com/JiapengWu/TeMP)]
+6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code](https://github.com/stasl0217/KEnS)]
+7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
 
 
 
