@@ -15,7 +15,7 @@
 <p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for incomplete graph representation learning literature. </p>
 
 ## Year 2022
-1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://arxiv.org/pdf/2011.01623)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
+1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
 2. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/abs/2201.08580)|[code](https://github.com/nju-websoft/TKGC)]
 3. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
 4. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
