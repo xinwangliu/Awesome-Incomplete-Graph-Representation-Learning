@@ -62,9 +62,8 @@
 4. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
 ## Year 2018
-1. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** \[[paper](https://dl.acm.org/doi/10.1145/3219819.3219890)]
-2. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
-3. [RecSys 2018] **Spectral collaborative filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
+1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
+2. [RecSys 2018] **Spectral collaborative filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
 
 ## Year 2017
 1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code](https://github.com/fmonti/mgcnn)]
