@@ -44,7 +44,7 @@
 
 
 ## Year 2020
-1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper](https://proceedings.neurips.cc/paper/2020/hash/dc36f18a9a0a776671d4879cae69b551-Abstract.html)|[code]()]
+1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper](https://proceedings.neurips.cc/paper/2020/file/dc36f18a9a0a776671d4879cae69b551-Paper.pdf)|[code]()]
 2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper](https://proceedings.neurips.cc/paper/2020/file/672cf3025399742b1a047c8dc6b1e992-Paper.pdf)|[code]()]
 3. [NN 2020] **Missing Data Imputation with Adversarially-trained Graph Convolutional Networks** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302185?via%3Dihub)|[code]()]
 4. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper](https://openreview.net/pdf?id=ByxxgCEYDS)|[code]()]
