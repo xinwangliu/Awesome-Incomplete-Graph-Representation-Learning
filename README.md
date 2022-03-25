@@ -44,6 +44,7 @@
 18. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
 19. [Arxiv 2021] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
 20. [Arxiv 2021] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
+21. [Arxiv 2021] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 
 
 
